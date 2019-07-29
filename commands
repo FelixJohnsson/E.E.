@@ -1,0 +1,61 @@
+//COMMANDS
+
+            createCharacter
+            checkMyCharacter
+            characterTransfer
+            checkPurse'p'  
+            sendMoney
+            checkInventory''q'  
+
+            dailyCosts
+            changeDailyCosts
+
+            workMiner
+            workFarmer
+            workBlacksmith
+            workBaker
+            
+            workingMiner
+            workingFarmer
+            workingBlacksmith
+            workingBaker
+            
+            sellOre
+            sellGrain
+            buyOre
+            buyGrain
+            sellArmor
+            buyArmor
+            sellBread
+            buyBread
+            checkBlacksmithStore
+            checkBakerStore
+            
+            checkMyLocation
+            moveTo
+            
+            checkDuchyOwner
+            checkCountyOwner
+            checkTownOwner
+            
+            giveDuchy
+            takeDuchy
+            giveCounty
+            takeCounty
+            giveTown
+            takeTown
+            
+            increaseTownCitizens
+            decreaseTownCitizens
+            checkTownCitizens
+            
+            collectDuchyTax
+            collectCountyTax
+            collectTownTax
+            
+            declareDuchyWar
+            declareCountyWar
+            
+            giveMoney
+            
+            saveBackup
